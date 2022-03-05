@@ -1,6 +1,6 @@
 # LEGO&reg; Partlists CSV to MD converter
 
-This tool is used to create a Markdown part list from a BOM (Bill Of Materials) as 
+This tool is used to create a Markdown part list from a BOM (Bill Of Materials) as
 exported to CSV file from [Stud.IO CAD](https://www.bricklink.com/v3/studio/download.page).
 
 The tool is written in a Python [Jupyther Notebook](https://jupyter.org) and can be run directly inside [Visual Studio Code](https://code.visualstudio.com).
@@ -20,7 +20,7 @@ this will create a `env` folder where all the Python libraries will be installed
 
 ### Activate the virtual environment
 
-> **NOTE** 
+> **NOTE**
 >
 > If you use _Visual Studio Code_ to run the Python Jupyter Notebook you do not need to activate the environment since it will be automatically used by VSC
 
@@ -35,22 +35,22 @@ Depending on your Operating System to activate the environment follow the comman
 |          | csh/tsch | `$ source env/bin/activate.csh` |
 |          | PowerShell Core | `$ env/bin/Activate.ps1` |
 | Windows  | cmd.exe | `C:\> env\Scripts\activate.bat` |
-|          | PowerShell | `PS C:\> env\Scripts\Activate.ps1 ` |
+|          | PowerShell | `PS C:\> env\Scripts\Activate.ps1` |
 
 ### Deactivate the virtual environment
 
 You can simply deactivate an active _virtual environment_ by using the command
 
-```
+```console
 deactivate
 ```
 ## Using VSC (Visual Studio Code)
 
 The `partlist-csv2md.ipynb` file is developed to be used inside Visual Studio Code.
 
-Open the file inside the editor. 
+Open the file inside the editor.
 
-> If it is the first time you open a Python source or a Jupyter Notebook 
+> If it is the first time you open a Python source or a Jupyter Notebook
 > then VSC will propose you
 > to install proper extensions.
 >
@@ -65,7 +65,7 @@ In the up-right corner of the opened editor use the `Select Kernel` menu and cho
 Press the `Run All` menu voice and wait...
 
 > **ATTENTION**
-> 
+>
 > The first time you try to run app, VSC will ask to install other needed libraries.
 > In particular it need to install `ipykernel` to be able to run your _Jupyther Notebook_ app.
 >
