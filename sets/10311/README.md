@@ -1,5 +1,24 @@
 # 10311 Orchid
 
+![box-image](https://img.bricklink.com/ItemImage/ON/0/10311-1.png)
+
+|              |       | 
+|  ---:        | ---   |
+|Year Released:| 2022  | 
+|Weight:       | 738g |
+|Item Dim.:    |26 x 38 x 7 cm |
+|Nr. parts:    | 608 |
+|Rated:        | 18+  |
+|              |      |
+
+![](https://img.bricklink.com/ItemImage/SL/10311-1.png)
+
+## Instructions
+
+[![](https://www.lego.com/cdn/product-assets/product.bi.core.img/6415032.png)](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6415032.pdf)
+
+[![](https://www.lego.com/cdn/product-assets/product.bi.additional.main.img/10311_IT_BI_Build_Translate.png)](https://www.lego.com/cdn/product-assets/product.bi.additional.main.pdf/10311_IT_BI_Build_Translate.pdf)
+
 ### The following parts failed to import for 10311-1
 
  Part No. | Description | Color | Quantity
