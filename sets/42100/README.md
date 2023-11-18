@@ -16,7 +16,8 @@
 
 ## Instructions
 
-[![](https://www.lego.com/cdn/product-assets/product.bi.core.img/6324096.png)](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6324096.pdf)
+[![lego-official](https://www.lego.com/cdn/product-assets/product.bi.core.img/6324096.png)](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6324096.pdf)
+[mirror](https://alv67-lfs.s3.cubbit.eu/6324096.pdf)
 
-[![](https://www.lego.com/cdn/product-assets/product.bi.core.img/6324712.png)](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6324712.pdf)
-
+[![lego official](https://www.lego.com/cdn/product-assets/product.bi.core.img/6324712.png)](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6324712.pdf)
+[mirror](https://alv67-lfs.s3.cubbit.eu/6324712.pdf)

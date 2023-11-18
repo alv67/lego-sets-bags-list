@@ -15,9 +15,11 @@
 
 ## Instructions
 
-[ ![](https://www.lego.com/cdn/product-assets/product.bi.core.img/6415032.png) ](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6415032.pdf)
+[ ![lego official](https://www.lego.com/cdn/product-assets/product.bi.core.img/6415032.png) ](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6415032.pdf)
+[mirror](https://alv67-lfs.s3.cubbit.eu/6415032.pdf)
 
-[ ![](https://www.lego.com/cdn/product-assets/product.bi.additional.main.img/10311_IT_BI_Build_Translate.png) ](https://www.lego.com/cdn/product-assets/product.bi.additional.main.pdf/10311_IT_BI_Build_Translate.pdf)
+[ ![lego official](https://www.lego.com/cdn/product-assets/product.bi.additional.main.img/10311_IT_BI_Build_Translate.png) ](https://www.lego.com/cdn/product-assets/product.bi.additional.main.pdf/10311_IT_BI_Build_Translate.pdf)
+[mirror](https://alv67-lfs.s3.cubbit.eu/10311_IT_BI_Build_Translate.pdf)
 
 ### The following parts failed to import for 10311-1
 
