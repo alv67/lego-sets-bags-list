@@ -14,7 +14,7 @@
 
 ![](https://img.bricklink.com/ItemImage/SL/42100-1.png)
 
-Instructions : 
+## Instructions
 
 [![](https://www.lego.com/cdn/product-assets/product.bi.core.img/6324096.png)](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6324096.pdf)
 
