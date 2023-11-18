@@ -2,9 +2,9 @@
 
 ![box-image](https://img.bricklink.com/ItemImage/ON/0/42100-1.png)
 
-|              |       | 
+|              |       |
 |  ---:        | ---   |
-|Year Released:| 2019  | 
+|Year Released:| 2019  |
 |Weight:       | 6451g |
 |Item Dim.:    |58.2 x 48 x 17 cm |
 |Nr. parts:    | 4108 |
@@ -12,7 +12,7 @@
 |              |      |
 
 
-![](https://img.bricklink.com/ItemImage/SL/42100-1.png)
+![model image](https://img.bricklink.com/ItemImage/SL/42100-1.png)
 
 ## Instructions
 

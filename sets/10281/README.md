@@ -2,9 +2,9 @@
 
 ![box-image](https://img.bricklink.com/ItemImage/ON/0/10281-1.png)
 
-|              |       | 
+|              |       |
 |  ---:        | ---   |
-|Year Released:| 2021  | 
+|Year Released:| 2021  |
 |Weight:       | 768g |
 |Item Dim.:    |26 x 38 x 7 cm |
 |Nr. parts:    | 878 |
@@ -12,7 +12,7 @@
 |              |      |
 
 
-![](https://img.bricklink.com/ItemImage/SL/10281-1.png)
+![model image](https://img.bricklink.com/ItemImage/SL/10281-1.png)
 
 ## Instructions
 
