@@ -6,7 +6,7 @@ Reference: [BrickLink - Set 10298-1 : Vespa 125](https://www.bricklink.com/v2/ca
 
 ## BAG 1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/4/96874.png" width="100px">| 1 | [96874](https://www.bricklink.com/v2/catalog/catalogitem.page?P=96874) | Brick and Axle Separator | Orange
 <img src="https://img.bricklink.com/ItemImage/PN/86/2445.png" width="100px">| 1 | [2445](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2445) | Plate 2 x 12 | Light Bluish Gray
@@ -41,7 +41,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 1A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/105/3005.png" width="100px">| 1 | [3005](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3005) | Brick 1 x 1 | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/105/3004.png" width="100px">| 1 | [3004](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004) | Brick 1 x 2 | Bright Light Blue
@@ -63,7 +63,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 1B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 3 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/6/3024.png" width="100px">| 3 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Green
@@ -84,7 +84,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG 2A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/105/3004.png" width="100px">| 1 | [3004](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004) | Brick 1 x 2 | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/105/3622.png" width="100px">| 2 | [3622](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3622) | Brick 1 x 3 | Bright Light Blue
@@ -119,7 +119,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 2A1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/105/4070.png" width="100px">| 2 | [4070](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4070) | Brick, Modified 1 x 1 with Headlight | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/17/54200.png" width="100px">| 3 | [54200](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200) | Slope 30 1 x 1 x 2/3 | Trans-Red
@@ -148,7 +148,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 2A2
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/6/3023.png" width="100px">| 3 | [3023b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Green
 <img src="https://img.bricklink.com/ItemImage/PN/3/3023.png" width="100px">| 3 | [3023b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Yellow
@@ -160,7 +160,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG 2B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/63/3005.png" width="100px">| 2 | [3005](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3005) | Brick 1 x 1 | Dark Blue
 <img src="https://img.bricklink.com/ItemImage/PN/63/3004.png" width="100px">| 7 | [3004](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004) | Brick 1 x 2 | Dark Blue
@@ -193,7 +193,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG 3A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/105/3010.png" width="100px">| 2 | [3010](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3010) | Brick 1 x 4 | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/105/48092.png" width="100px">| 4 | [48092](https://www.bricklink.com/v2/catalog/catalogitem.page?P=48092) | Brick, Round Corner 4 x 4 Macaroni with 3 Studs | Bright Light Blue
@@ -221,7 +221,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 3A1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/105/6091.png" width="100px">| 2 | [6091](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6091) | Slope, Curved 2 x 1 x 1 1/3 with Recessed Stud | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/105/11477.png" width="100px">| 2 | [11477](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11477) | Slope, Curved 2 x 1 x 2/3 | Bright Light Blue
@@ -240,7 +240,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG 3B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 2 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/6/3023.png" width="100px">| 3 | [3023b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Green
@@ -268,7 +268,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG 4
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/3004.png" width="100px">| 1 | [3004](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004) | Brick 1 x 2 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/105/3010.png" width="100px">| 4 | [3010](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3010) | Brick 1 x 4 | Bright Light Blue
@@ -306,7 +306,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 4A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/3005.png" width="100px">| 1 | [3005](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3005) | Brick 1 x 1 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/11/11477.png" width="100px">| 2 | [11477](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11477) | Slope, Curved 2 x 1 x 2/3 | Black
@@ -339,7 +339,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 4B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/86/15068.png" width="100px">| 2 | [15068](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15068) | Slope, Curved 2 x 2 x 2/3 | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/86/3040.png" width="100px">| 2 | [3040b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3040) | Slope 45 2 x 1 | Light Bluish Gray
@@ -357,7 +357,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG 5
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/105/3942c.png" width="100px">| 2 | [3942c](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3942c) | Cone 2 x 2 x 2 - Open Stud | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/105/13349.png" width="100px">| 1 | [13349](https://www.bricklink.com/v2/catalog/catalogitem.page?P=13349) | Wedge 4 x 4 Triple Inverted with Connections between 4 Studs | Bright Light Blue
@@ -393,7 +393,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 5A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/105/3005.png" width="100px">| 4 | [3005](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3005) | Brick 1 x 1 | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/105/50950.png" width="100px">| 4 | [50950](https://www.bricklink.com/v2/catalog/catalogitem.page?P=50950) | Slope, Curved 3 x 1 | Bright Light Blue
@@ -420,7 +420,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 5B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/63/3062.png" width="100px">| 2 | [3062b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3062) | Brick, Round  1 x 1 | Dark Blue
 <img src="https://img.bricklink.com/ItemImage/PN/105/4589b.png" width="100px">| 3 | [59900](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4589b) | Cone 1 x 1 with Top Groove | Bright Light Blue
@@ -451,7 +451,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG 6
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/63/2357.png" width="100px">| 2 | [2357](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2357) | Brick 2 x 2 Corner | Dark Blue
 <img src="https://img.bricklink.com/ItemImage/PN/63/3001.png" width="100px">| 1 | [3001](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3001) | Brick 2 x 4 | Dark Blue
@@ -485,7 +485,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGLET 6A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/63/87087.png" width="100px">| 6 | [87087](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87087) | Brick, Modified 1 x 1 with Stud on Side | Dark Blue
 <img src="https://img.bricklink.com/ItemImage/PN/88/3024.png" width="100px">| 3 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Reddish Brown
@@ -511,7 +511,7 @@ Picture | Qty | Code | Description | Color
 
 ### TRANSPARENT BAGET 6B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/6/19119.png" width="100px">| 1 | [19119](https://www.bricklink.com/v2/catalog/catalogitem.page?P=19119) | Plant Flower Stem with Bar and 6 Stems | Green
 <img src="https://img.bricklink.com/ItemImage/PN/88/78257.png" width="100px">| 2 | [78257](https://www.bricklink.com/v2/catalog/catalogitem.page?P=78257) | Plate, Modified 1 x 1 with Bar Handles on Ends | Reddish Brown
@@ -533,7 +533,7 @@ Picture | Qty | Code | Description | Color
 
 ## BAG UNUMBERED
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/86/84772pb01.png" width="100px">| 2 | [84772p01](https://www.bricklink.com/v2/catalog/catalogitem.page?P=84772pb01) | Wheel 62.3mm D. x 20.3mm Motorcycle with Molded White Wall Outer Rim Pattern | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/11/80542.png" width="100px">| 2 | [80542](https://www.bricklink.com/v2/catalog/catalogitem.page?P=80542) | Tire 75.1mm D. x 20mm Motorcycle | Black
