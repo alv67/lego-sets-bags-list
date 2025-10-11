@@ -2,13 +2,13 @@
 
 Reference: [BrickLink - Set 42100-1 : LEGO Liebherr R 9800](https://www.bricklink.com/v2/catalog/catalogitem.page?S=42100-1)
 
-<!-- (2022-11-28 20:44 CET) -->
+<!-- (2025-10-12 00:01 CET) -->
 
 ## BAGS 1
 
 ### BAG 1A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/32140.png" width="100px">| 18 | [32140](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32140) | Technic, Liftarm, Modified Bent Thick L-Shape 2 x 4 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/60484.png" width="100px">| 6 | [60484](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60484) | Technic, Liftarm, Modified T-Shape Thick 3 x 3 | Dark Bluish Gray
@@ -22,7 +22,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 1A1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 74 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 <img src="https://img.bricklink.com/ItemImage/PN/7/43093.png" width="100px">| 36 | [43093](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43093) | Technic, Axle  1L with Pin with Friction Ridges | Blue
@@ -30,7 +30,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 1A2
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 74 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 <img src="https://img.bricklink.com/ItemImage/PN/7/43093.png" width="100px">| 36 | [43093](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43093) | Technic, Axle  1L with Pin with Friction Ridges | Blue
@@ -38,7 +38,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 1B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/32498.png" width="100px">| 4 | [32498](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32498) | Technic, Gear 36 Tooth Double Bevel | Black
 <img src="https://img.bricklink.com/ItemImage/PN/86/64179.png" width="100px">| 10 | [64179](https://www.bricklink.com/v2/catalog/catalogitem.page?P=64179) | Technic, Liftarm, Modified Frame Thick 5 x 7 Open Center | Light Bluish Gray
@@ -52,7 +52,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 1C
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/32525.png" width="100px">| 12 | [32525](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32525) | Technic, Liftarm Thick 1 x 11 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/86/44294.png" width="100px">| 10 | [44294](https://www.bricklink.com/v2/catalog/catalogitem.page?P=44294) | Technic, Axle  7L | Light Bluish Gray
@@ -69,7 +69,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 1C1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/6536.png" width="100px">| 14 | [6536](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6536) | Technic, Axle and Pin Connector Perpendicular | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/1/60483.png" width="100px">| 6 | [60483](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60483) | Technic, Liftarm Thick 1 x 2 - Axle Hole | White
@@ -82,13 +82,13 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 1D
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/57518.png" width="100px">| 104 | [57518](https://www.bricklink.com/v2/catalog/catalogitem.page?P=57518) | Technic, Link Tread Wide with 2 Pin Holes | Dark Bluish Gray
 
 ### BAG 1E
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/86/87407.png" width="100px">| 28 | [87407](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87407) | Technic, Gear 20 Tooth Bevel with Pin Hole | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/4185.png" width="100px">| 16 | [4185](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4185) | Technic Wedge Belt Wheel (Pulley) | Dark Bluish Gray
@@ -104,7 +104,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 1F
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/3/15100.png" width="100px">| 8 | [15100](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15100) | Technic, Pin with Friction Ridges and Pin Hole | Yellow
 <img src="https://img.bricklink.com/ItemImage/PN/86/4274.png" width="100px">| 19 | [4274](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4274) | Technic, Pin 1/2 without Friction Ridges | Light Bluish Gray
@@ -120,22 +120,23 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 1G
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 86 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/86/4265c.png" width="100px">| 17 | [32123a](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4265c) | Technic Bush 1/2 Smooth | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/5/32523.png" width="100px">| 2 | [32523](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32523) | Technic, Liftarm Thick 1 x 3 | Red
 <img src="https://img.bricklink.com/ItemImage/PN/5/49283.png" width="100px">| 2 | [49283](https://www.bricklink.com/v2/catalog/catalogitem.page?P=49283) | Technic, Axle and Wire Connector | Red
 <img src="https://img.bricklink.com/ItemImage/PN/2/99008.png" width="100px">| 3 | [99008](https://www.bricklink.com/v2/catalog/catalogitem.page?P=99008) | Technic, Axle  4L with Center Stop | Tan
-<img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 4 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 3 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 <img src="https://img.bricklink.com/ItemImage/PN/85/3069.png" width="100px">| 2 | [3069b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069) | Tile 1 x 2 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/6/49283.png" width="100px">| 2 | [49283](https://www.bricklink.com/v2/catalog/catalogitem.page?P=49283) | Technic, Axle and Wire Connector | Green
+<img src="https://img.bricklink.com/ItemImage/PN/11/32034.png" width="100px">| 1 | [32034](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32034) | Technic, Axle and Pin Connector Angled #2 - 180 degrees | Black
 
 ## BAGS 2
 
 ### BAG 2A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/86/64179.png" width="100px">| 17 | [64179](https://www.bricklink.com/v2/catalog/catalogitem.page?P=64179) | Technic, Liftarm, Modified Frame Thick 5 x 7 Open Center | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/4185.png" width="100px">| 8 | [4185](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4185) | Technic Wedge Belt Wheel (Pulley) | Dark Bluish Gray
@@ -144,7 +145,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 2B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/64782.png" width="100px">| 3 | [64782](https://www.bricklink.com/v2/catalog/catalogitem.page?P=64782) | Technic, Panel Plate 5 x 11 x 1 | White
 <img src="https://img.bricklink.com/ItemImage/PN/1/39794.png" width="100px">| 2 | [39794](https://www.bricklink.com/v2/catalog/catalogitem.page?P=39794) | Technic, Liftarm, Modified Frame Thick 7 x 11 Open Center | White
@@ -171,13 +172,13 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 2B1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 121 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 
 ### BAG 2C
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/64782.png" width="100px">| 3 | [64782](https://www.bricklink.com/v2/catalog/catalogitem.page?P=64782) | Technic, Panel Plate 5 x 11 x 1 | White
 <img src="https://img.bricklink.com/ItemImage/PN/1/39794.png" width="100px">| 2 | [39794](https://www.bricklink.com/v2/catalog/catalogitem.page?P=39794) | Technic, Liftarm, Modified Frame Thick 7 x 11 Open Center | White
@@ -204,13 +205,13 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 2C1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 121 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 
 ### BAG 2D
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/15458.png" width="100px">| 7 | [15458](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15458) | Technic, Panel Plate 3 x 11 x 1 | White
 <img src="https://img.bricklink.com/ItemImage/PN/86/32278.png" width="100px">| 13 | [32278](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32278) | Technic, Liftarm Thick 1 x 15 | Light Bluish Gray
@@ -223,7 +224,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 2D1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/86/4519.png" width="100px">| 9 | [4519](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4519) | Technic, Axle  3L | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/5/32062.png" width="100px">| 7 | [32062](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32062) | Technic, Axle  2L Notched | Red
@@ -238,7 +239,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 2D2
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/43093.png" width="100px">| 51 | [43093](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43093) | Technic, Axle  1L with Pin with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/11/15100.png" width="100px">| 15 | [15100](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15100) | Technic, Pin with Friction Ridges and Pin Hole | Black
@@ -254,7 +255,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 2E
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/32525.png" width="100px">| 5 | [32525](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32525) | Technic, Liftarm Thick 1 x 11 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/1/40490.png" width="100px">| 3 | [40490](https://www.bricklink.com/v2/catalog/catalogitem.page?P=40490) | Technic, Liftarm Thick 1 x 9 | White
@@ -272,7 +273,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 2F
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/6/32523.png" width="100px">| 1 | [32523](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32523) | Technic, Liftarm Thick 1 x 3 | Green
 <img src="https://img.bricklink.com/ItemImage/PN/7/32523.png" width="100px">| 1 | [32523](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32523) | Technic, Liftarm Thick 1 x 3 | Blue
@@ -296,13 +297,13 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 2G
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 111 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
 
 ### BAG 2H
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/2412b.png" width="100px">| 64 | [2412b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2412b) | Tile, Modified 1 x 2 Grille with Bottom Groove | White
 <img src="https://img.bricklink.com/ItemImage/PN/85/2412b.png" width="100px">| 8 | [2412b](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2412b) | Tile, Modified 1 x 2 Grille with Bottom Groove | Dark Bluish Gray
@@ -320,7 +321,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 3A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/64782.png" width="100px">| 6 | [64782](https://www.bricklink.com/v2/catalog/catalogitem.page?P=64782) | Technic, Panel Plate 5 x 11 x 1 | White
 <img src="https://img.bricklink.com/ItemImage/PN/1/15458.png" width="100px">| 3 | [15458](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15458) | Technic, Panel Plate 3 x 11 x 1 | White
@@ -336,7 +337,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 3B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/18945.png" width="100px">| 4 | [18945](https://www.bricklink.com/v2/catalog/catalogitem.page?P=18945) | Technic, Panel Plate 5 x 11 x 1 Tapered | White
 <img src="https://img.bricklink.com/ItemImage/PN/86/64178.png" width="100px">| 1 | [64178](https://www.bricklink.com/v2/catalog/catalogitem.page?P=64178) | Technic, Liftarm, Modified Frame Thick 5 x 11 Open Center | Light Bluish Gray
@@ -352,7 +353,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 3C
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/32525.png" width="100px">| 15 | [32525](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32525) | Technic, Liftarm Thick 1 x 11 | White
 <img src="https://img.bricklink.com/ItemImage/PN/85/32316.png" width="100px">| 3 | [32316](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32316) | Technic, Liftarm Thick 1 x 5 | Dark Bluish Gray
@@ -366,7 +367,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 3C1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/5/11214.png" width="100px">| 19 | [11214](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11214) | Technic, Axle  1L with Pin 2L with Friction Ridges | Red
 <img src="https://img.bricklink.com/ItemImage/PN/2/32556.png" width="100px">| 7 | [32556](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32556) | Technic, Pin 3L without Friction Ridges | Tan
@@ -388,7 +389,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 3D
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/32523.png" width="100px">| 4 | [32523](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32523) | Technic, Liftarm Thick 1 x 3 | White
 <img src="https://img.bricklink.com/ItemImage/PN/86/42003.png" width="100px">| 22 | [42003](https://www.bricklink.com/v2/catalog/catalogitem.page?P=42003) | Technic, Axle and Pin Connector Perpendicular 3L with 2 Pin Holes | Light Bluish Gray
@@ -408,7 +409,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 3D1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/32523.png" width="100px">| 5 | [32523](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32523) | Technic, Liftarm Thick 1 x 3 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/1/60483.png" width="100px">| 20 | [60483](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60483) | Technic, Liftarm Thick 1 x 2 - Axle Hole | White
@@ -418,7 +419,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 3E
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/32063.png" width="100px">| 4 | [32063](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32063) | Technic, Liftarm Thin 1 x 6 | White
 <img src="https://img.bricklink.com/ItemImage/PN/1/32316.png" width="100px">| 2 | [32316](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32316) | Technic, Liftarm Thick 1 x 5 | White
@@ -443,7 +444,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 3E1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 67 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 <img src="https://img.bricklink.com/ItemImage/PN/7/43093.png" width="100px">| 21 | [43093](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43093) | Technic, Axle  1L with Pin with Friction Ridges | Blue
@@ -453,7 +454,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 3E2
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 67 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 <img src="https://img.bricklink.com/ItemImage/PN/7/43093.png" width="100px">| 21 | [43093](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43093) | Technic, Axle  1L with Pin with Friction Ridges | Blue
@@ -463,7 +464,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 3F
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 122 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/3/49283.png" width="100px">| 1 | [49283](https://www.bricklink.com/v2/catalog/catalogitem.page?P=49283) | Technic, Axle and Wire Connector | Yellow
@@ -473,7 +474,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 4A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/3001.png" width="100px">| 6 | [3001](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3001) | Brick 2 x 4 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/3002.png" width="100px">| 12 | [3002](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3002) | Brick 2 x 3 | Dark Bluish Gray
@@ -499,7 +500,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 4A1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/18651.png" width="100px">| 10 | [18651](https://www.bricklink.com/v2/catalog/catalogitem.page?P=18651) | Technic, Axle  2L with Pin with Friction Ridges | Black
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 6 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
@@ -516,7 +517,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 4B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/3038.png" width="100px">| 4 | [3038](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3038) | Slope 45 2 x 3 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/3941.png" width="100px">| 2 | [3941](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3941) | Brick, Round 2 x 2 with Axle Hole | Dark Bluish Gray
@@ -538,13 +539,13 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 4B1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 46 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
 
 ### BAG 4C
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/3045.png" width="100px">| 4 | [3045](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3045) | Slope 45 2 x 2 Double Convex Corner | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/6541.png" width="100px">| 16 | [6541](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6541) | Technic, Brick 1 x 1 with Hole | Dark Bluish Gray
@@ -571,7 +572,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 5A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/41239.png" width="100px">| 2 | [41239](https://www.bricklink.com/v2/catalog/catalogitem.page?P=41239) | Technic, Liftarm Thick 1 x 13 | White
 <img src="https://img.bricklink.com/ItemImage/PN/85/41239.png" width="100px">| 6 | [41239](https://www.bricklink.com/v2/catalog/catalogitem.page?P=41239) | Technic, Liftarm Thick 1 x 13 | Dark Bluish Gray
@@ -592,7 +593,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 5A1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 16 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/86/4519.png" width="100px">| 16 | [4519](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4519) | Technic, Axle  3L | Light Bluish Gray
@@ -602,7 +603,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 5A2
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 16 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/86/4519.png" width="100px">| 16 | [4519](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4519) | Technic, Axle  3L | Light Bluish Gray
@@ -612,7 +613,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 5B
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/1/32063.png" width="100px">| 6 | [32063](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32063) | Technic, Liftarm Thin 1 x 6 | White
 <img src="https://img.bricklink.com/ItemImage/PN/85/32449.png" width="100px">| 6 | [32449](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32449) | Technic, Liftarm Thin 1 x 4 - Axle Holes | Dark Bluish Gray
@@ -641,7 +642,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 5B1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 6 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/2/32556.png" width="100px">| 2 | [32556](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32556) | Technic, Pin 3L without Friction Ridges | Tan
@@ -662,7 +663,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 5C
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/32524.png" width="100px">| 5 | [32524](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32524) | Technic, Liftarm Thick 1 x 7 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/86/32316.png" width="100px">| 2 | [32316](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32316) | Technic, Liftarm Thick 1 x 5 | Light Bluish Gray
@@ -682,7 +683,7 @@ Picture | Qty | Code | Description | Color
 
 #### TRANSPARENT BAGLET 5C1
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/7/6558.png" width="100px">| 16 | [6558](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6558) | Technic, Pin 3L with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/11/2780.png" width="100px">| 19 | [2780](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2780) | Technic, Pin with Short Friction Ridges | Black
@@ -692,7 +693,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 5D
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/5/11214.png" width="100px">| 22 | [11214](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11214) | Technic, Axle  1L with Pin 2L with Friction Ridges | Red
 <img src="https://img.bricklink.com/ItemImage/PN/11/18651.png" width="100px">| 4 | [18651](https://www.bricklink.com/v2/catalog/catalogitem.page?P=18651) | Technic, Axle  2L with Pin with Friction Ridges | Black
@@ -711,7 +712,7 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 5E
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/6538c.png" width="100px">| 83 | [59443](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6538c) | Technic, Axle Connector 2L (Smooth with x Hole + Orientation) | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/11/62462.png" width="100px">| 2 | [62462](https://www.bricklink.com/v2/catalog/catalogitem.page?P=62462) | Technic, Pin Connector Round 2L with Slot (Pin Joiner Round) | Black
@@ -720,14 +721,14 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 5F
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/32039.png" width="100px">| 57 | [32039](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32039) | Technic, Axle Connector with Axle Hole | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/99021.png" width="100px">| 42 | [99021](https://www.bricklink.com/v2/catalog/catalogitem.page?P=99021) | Pneumatic Hose Connector with Axle Connector | Dark Bluish Gray
 
 ### BAG 5G
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/11/5102c13.png" width="100px">| 8 | [37467-f1](https://www.bricklink.com/v2/catalog/catalogitem.page?P=5102c13) | Hose, Pneumatic 4mm D.  13L / 10.4cm | Black
 <img src="https://img.bricklink.com/ItemImage/PN/11/5102c17.png" width="100px">| 8 | [53168-f1](https://www.bricklink.com/v2/catalog/catalogitem.page?P=5102c17) | Hose, Pneumatic 4mm D.  17L / 13.6cm | Black
@@ -737,13 +738,13 @@ Picture | Qty | Code | Description | Color
 
 ### BAG 6A
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/3941.png" width="100px">| 100 | [3941](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3941) | Brick, Round 2 x 2 with Axle Hole | Dark Bluish Gray
 
 ## BOXED POWERUP
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/bb0959c01.png" width="100px">| 4 | [bb0959c01](https://www.bricklink.com/v2/catalog/catalogitem.page?P=bb0959c01) | Electric, Motor Powered Up, L | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/86/bb0961c01.png" width="100px">| 2 | [bb0961c01](https://www.bricklink.com/v2/catalog/catalogitem.page?P=bb0961c01) | Electric Battery Box Powered Up Bluetooth Hub with Dark Bluish Gray Bottom - Clip Opening | Light Bluish Gray
@@ -751,6 +752,8 @@ Picture | Qty | Code | Description | Color
 
 ## UNBAGGED
 
-Picture | Qty | Code | Description | Color 
+Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/85/46891.png" width="100px">| 1 | [46891](https://www.bricklink.com/v2/catalog/catalogitem.page?P=46891) | Technic Digger Bucket 10 x 19 | Dark Bluish Gray
+
+<!--EOF-->
