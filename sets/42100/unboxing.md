@@ -2,7 +2,7 @@
 
 Reference: [BrickLink - Set 42100-1 : LEGO Liebherr R 9800](https://www.bricklink.com/v2/catalog/catalogitem.page?S=42100-1)
 
-<!-- (2025-10-12 00:01 CET) -->
+<!-- (2025-10-12 00:23 CET) -->
 
 ## BAGS 1
 
@@ -349,7 +349,7 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/1/6629.png" width="100px">| 2 | [6629](https://www.bricklink.com/v2/catalog/catalogitem.page?P=6629) | Technic, Liftarm, Modified Bent Thick 1 x 9 (6 - 4) | White
 <img src="https://img.bricklink.com/ItemImage/PN/1/32526.png" width="100px">| 19 | [32526](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32526) | Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5 | White
 <img src="https://img.bricklink.com/ItemImage/PN/11/87408.png" width="100px">| 3 | [87408](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87408) | Technic, Pin Connector Toggle Joint Smooth Double with Axle and Pin Holes | Black
-<img src="https://img.bricklink.com/ItemImage/PN/1/40918c01.png" width="100px">| 4 | [40918-f1](https://www.bricklink.com/v2/catalog/catalogitem.page?P=40918c01) | Technic Linear Actuator Long with Dark Bluish Gray Ends | White
+<img src="https://img.bricklink.com/ItemImage/PN/86/40918c01.png" width="100px">| 4 | [40918-f1](https://www.bricklink.com/v2/catalog/catalogitem.page?P=40918c01) | Technic Linear Actuator Long with Dark Bluish Gray Ends | Light Bluish Gray
 
 ### BAG 3C
 
