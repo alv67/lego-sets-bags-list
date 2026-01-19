@@ -2,7 +2,11 @@
 
 Reference: [BrickLink - Set 10351-1 : LEGO Sherlock Holmes: Book Nook](https://www.bricklink.com/v2/catalog/catalogitem.page?S=10351-1)
 
-<!-- (2026-01-15 18:48 CET) -->
+<!-- (2026-01-19 21:47 CET) -->
+
+Picture | Qty | Code | Description | Color
+--------|----:|------|-------------|-------
+<img src="https://img.bricklink.com/ItemImage/PN/2/3456.png" width="100px">| 1 | [3456](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3456) | Plate 6 x 14 | Tan
 
 ## BAG 1
 
@@ -24,7 +28,7 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/11/78329.png" width="100px">| 2 | [78329](https://www.bricklink.com/v2/catalog/catalogitem.page?P=78329) | Plate 1 x 5 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/85/3068.png" width="100px">| 1 | [3068](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3068) | Tile 2 x 2 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/2/26604.png" width="100px">| 3 | [26604](https://www.bricklink.com/v2/catalog/catalogitem.page?P=26604) | Brick, Modified 1 x 1 with Studs on 2 Sides, Adjacent | Tan
-<img src="https://img.bricklink.com/ItemImage/PN/85/14716.png" width="100px">| 1 | [14716](https://www.bricklink.com/v2/catalog/catalogitem.page?P=14716) | Brick 1 x 1 x 3 | Dark Bluish Gray
+<img src="https://img.bricklink.com/ItemImage/PN/86/14716.png" width="100px">| 1 | [14716](https://www.bricklink.com/v2/catalog/catalogitem.page?P=14716) | Brick 1 x 1 x 3 | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/88/3020.png" width="100px">| 2 | [3020](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3020) | Plate 2 x 4 | Reddish Brown
 <img src="https://img.bricklink.com/ItemImage/PN/2/60581.png" width="100px">| 2 | [60581](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60581) | Panel 1 x 4 x 3 with Side Supports - Hollow Studs | Tan
 <img src="https://img.bricklink.com/ItemImage/PN/88/32952.png" width="100px">| 2 | [32952](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32952) | Brick, Modified 1 x 1 x 1 2/3 with Studs on Side | Reddish Brown
@@ -48,7 +52,7 @@ Picture | Qty | Code | Description | Color
 Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/120/95674.png" width="100px">| 1 | [95674](https://www.bricklink.com/v2/catalog/catalogitem.page?P=95674) | Minifigure, Headgear Hat, Bowler | Dark Brown
-<img src="https://img.bricklink.com/ItemImage/PN/88/36752a.png" width="100px">| 2 | [36752a](https://www.bricklink.com/v2/catalog/catalogitem.page?P=36752a) | Minifigure, Utensil Wand | Reddish Brown
+<img src="https://img.bricklink.com/ItemImage/PN/88/36752a.png" width="100px">| 1 | [36752a](https://www.bricklink.com/v2/catalog/catalogitem.page?P=36752a) | Minifigure, Utensil Wand | Reddish Brown
 <img src="https://img.bricklink.com/ItemImage/PN/150/98138pb055.png" width="100px">| 1 | [98138pb055](https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138pb055) | Tile, Round 1 x 1 with White Animal Paw Print on Reddish Brown Background Pattern | Medium Nougat
 <img src="https://img.bricklink.com/ItemImage/PN/88/3023.png" width="100px">| 8 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Reddish Brown
 <img src="https://img.bricklink.com/ItemImage/PN/85/99563.png" width="100px">| 6 | [99563](https://www.bricklink.com/v2/catalog/catalogitem.page?P=99563) | Minifigure, Utensil Ingot 1 x 2 | Dark Bluish Gray
@@ -81,6 +85,7 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/68/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Dark Orange
 <img src="https://img.bricklink.com/ItemImage/PN/150/98138pb055.png" width="100px">| 1 | [98138pb055](https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138pb055) | Tile, Round 1 x 1 with White Animal Paw Print on Reddish Brown Background Pattern | Medium Nougat
 <img src="https://img.bricklink.com/ItemImage/PN/88/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Reddish Brown
+<img src="https://img.bricklink.com/ItemImage/PN/88/36752a.png" width="100px">| 1 | [36752a](https://www.bricklink.com/v2/catalog/catalogitem.page?P=36752a) | Minifigure, Utensil Wand | Reddish Brown
 
 ## BAG 2
 
@@ -124,10 +129,16 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/156/3023.png" width="100px">| 3 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Medium Azure
 <img src="https://img.bricklink.com/ItemImage/PN/88/3005.png" width="100px">| 1 | [3005](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3005) | Brick 1 x 1 | Reddish Brown
 <img src="https://img.bricklink.com/ItemImage/PN/88/3024.png" width="100px">| 2 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Reddish Brown
-<img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 2 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/85/3069.png" width="100px">| 1 | [3069](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069) | Tile 1 x 2 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/11/2654.png" width="100px">| 4 | [2654](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2654) | Plate, Round 2 x 2 with Rounded Bottom (Boat Stud) | Black
 <img src="https://img.bricklink.com/ItemImage/PN/12/60601.png" width="100px">| 12 | [60601](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60601) | Glass for Window 1 x 2 x 2 Flat Front | Trans-Clear
+
+#### BAGLET 2A (SPARE)
+
+Picture | Qty | Code | Description | Color
+--------|----:|------|-------------|-------
+<img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
 
 ### BAGLET 2B
 
@@ -136,15 +147,15 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/88/87087.png" width="100px">| 1 | [87087](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87087) | Brick, Modified 1 x 1 with Stud on Side | Reddish Brown
 <img src="https://img.bricklink.com/ItemImage/PN/2/26604.png" width="100px">| 1 | [26604](https://www.bricklink.com/v2/catalog/catalogitem.page?P=26604) | Brick, Modified 1 x 1 with Studs on 2 Sides, Adjacent | Tan
 <img src="https://img.bricklink.com/ItemImage/PN/11/3062.png" width="100px">| 2 | [3062](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3062) | Brick, Round  1 x 1 | Black
-<img src="https://img.bricklink.com/ItemImage/PN/86/3024.png" width="100px">| 3 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Light Bluish Gray
+<img src="https://img.bricklink.com/ItemImage/PN/86/3024.png" width="100px">| 4 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/68/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Dark Orange
 <img src="https://img.bricklink.com/ItemImage/PN/88/3023.png" width="100px">| 2 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Reddish Brown
 <img src="https://img.bricklink.com/ItemImage/PN/11/2420.png" width="100px">| 1 | [2420](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2420) | Plate 2 x 2 Corner | Black
 <img src="https://img.bricklink.com/ItemImage/PN/69/4073.png" width="100px">| 2 | [4073](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4073) | Plate, Round 1 x 1 | Dark Tan
-<img src="https://img.bricklink.com/ItemImage/PN/11/85861.png" width="100px">| 2 | [85861](https://www.bricklink.com/v2/catalog/catalogitem.page?P=85861) | Plate, Round 1 x 1 with Open Stud | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/85861.png" width="100px">| 1 | [85861](https://www.bricklink.com/v2/catalog/catalogitem.page?P=85861) | Plate, Round 1 x 1 with Open Stud | Black
 <img src="https://img.bricklink.com/ItemImage/PN/1/24866.png" width="100px">| 2 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | White
-<img src="https://img.bricklink.com/ItemImage/PN/6/24866.png" width="100px">| 5 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Green
-<img src="https://img.bricklink.com/ItemImage/PN/36/24866.png" width="100px">| 3 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Bright Green
+<img src="https://img.bricklink.com/ItemImage/PN/6/24866.png" width="100px">| 4 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Green
+<img src="https://img.bricklink.com/ItemImage/PN/36/24866.png" width="100px">| 2 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Bright Green
 <img src="https://img.bricklink.com/ItemImage/PN/150/98138pb055.png" width="100px">| 1 | [98138pb055](https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138pb055) | Tile, Round 1 x 1 with White Animal Paw Print on Reddish Brown Background Pattern | Medium Nougat
 <img src="https://img.bricklink.com/ItemImage/PN/1/3069pb0779.png" width="100px">| 1 | [3069pb0779](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069pb0779) | Tile 1 x 2 with Envelope with Red Wax Seal and Light Bluish Gray Highlights Pattern | White
 <img src="https://img.bricklink.com/ItemImage/PN/157/3069.png" width="100px">| 1 | [3069](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069) | Tile 1 x 2 | Medium Lavender
@@ -161,13 +172,16 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/150/5520.png" width="100px">| 1 | [5520](https://www.bricklink.com/v2/catalog/catalogitem.page?P=5520) | Tile, Round 2 x 2 Half Circle Extended | Medium Nougat
 <img src="https://img.bricklink.com/ItemImage/PN/2/3680.png" width="100px">| 1 | [3680](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3680) | Turntable 2 x 2 Plate, Base | Tan
 <img src="https://img.bricklink.com/ItemImage/PN/86/3679.png" width="100px">| 1 | [3679](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3679) | Turntable 2 x 2 Plate, Top | Light Bluish Gray
-<img src="https://img.bricklink.com/ItemImage/PN/11/87994.png" width="100px">| 2 | [87994](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87994) | Bar   3L (Bar Arrow) | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/87994.png" width="100px">| 1 | [87994](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87994) | Bar   3L (Bar Arrow) | Black
 
 #### BAGLET 2B (SPARE)
 
 Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
-<img src="https://img.bricklink.com/ItemImage/PN/86/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Light Bluish Gray
+<img src="https://img.bricklink.com/ItemImage/PN/6/24866.png" width="100px">| 1 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Green
+<img src="https://img.bricklink.com/ItemImage/PN/11/87994.png" width="100px">| 1 | [87994](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87994) | Bar   3L (Bar Arrow) | Black
+<img src="https://img.bricklink.com/ItemImage/PN/36/24866.png" width="100px">| 1 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Bright Green
+<img src="https://img.bricklink.com/ItemImage/PN/11/85861.png" width="100px">| 1 | [85861](https://www.bricklink.com/v2/catalog/catalogitem.page?P=85861) | Plate, Round 1 x 1 with Open Stud | Black
 
 ## BAG 3
 
@@ -228,7 +242,7 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/5/24866.png" width="100px">| 1 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Red
 <img src="https://img.bricklink.com/ItemImage/PN/59/24866.png" width="100px">| 2 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Dark Red
 <img src="https://img.bricklink.com/ItemImage/PN/120/15573.png" width="100px">| 2 | [15573](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15573) | Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper) | Dark Brown
-<img src="https://img.bricklink.com/ItemImage/PN/88/3069.png" width="100px">| 3 | [3069](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069) | Tile 1 x 2 | Reddish Brown
+<img src="https://img.bricklink.com/ItemImage/PN/150/3069.png" width="100px">| 3 | [3069](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069) | Tile 1 x 2 | Medium Nougat
 <img src="https://img.bricklink.com/ItemImage/PN/2/27925.png" width="100px">| 6 | [27925](https://www.bricklink.com/v2/catalog/catalogitem.page?P=27925) | Tile, Round Corner 2 x 2 Macaroni | Tan
 <img src="https://img.bricklink.com/ItemImage/PN/120/29119.png" width="100px">| 2 | [29119](https://www.bricklink.com/v2/catalog/catalogitem.page?P=29119) | Wedge 2 x 1 x 2/3 Right | Dark Brown
 <img src="https://img.bricklink.com/ItemImage/PN/85/30136.png" width="100px">| 1 | [30136](https://www.bricklink.com/v2/catalog/catalogitem.page?P=30136) | Brick, Modified 1 x 2 with Log Profile | Dark Bluish Gray
@@ -312,7 +326,6 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/85/79756.png" width="100px">| 3 | [79756](https://www.bricklink.com/v2/catalog/catalogitem.page?P=79756) | Slope, Curved 1 x 4 x 2/3 Double | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/2/60593.png" width="100px">| 1 | [60593](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60593) | Window 1 x 2 x 3 Flat Front | Tan
 <img src="https://img.bricklink.com/ItemImage/PN/86/92950.png" width="100px">| 1 | [92950](https://www.bricklink.com/v2/catalog/catalogitem.page?P=92950) | Arch 1 x 6 Raised Arch | Light Bluish Gray
-<img src="https://img.bricklink.com/ItemImage/PN/11/3023.png" width="100px">| 1 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Black
 
 ### BAGLET 4A
 
@@ -324,7 +337,7 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/85/2310.png" width="100px">| 1 | [2310](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2310) | Slope, Inverted 45 2 x 1 with 2/3 Cutout | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/11477.png" width="100px">| 1 | [11477](https://www.bricklink.com/v2/catalog/catalogitem.page?P=11477) | Slope, Curved 2 x 1 x 2/3 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 3 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
-<img src="https://img.bricklink.com/ItemImage/PN/48/3024.png" width="100px">| 4 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Sand Green
+<img src="https://img.bricklink.com/ItemImage/PN/48/3024.png" width="100px">| 3 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Sand Green
 <img src="https://img.bricklink.com/ItemImage/PN/11/3023.png" width="100px">| 6 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/85/3023.png" width="100px">| 7 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/3623.png" width="100px">| 3 | [3623](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3623) | Plate 1 x 3 | Dark Bluish Gray
@@ -333,18 +346,18 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/48/2420.png" width="100px">| 1 | [2420](https://www.bricklink.com/v2/catalog/catalogitem.page?P=2420) | Plate 2 x 2 Corner | Sand Green
 <img src="https://img.bricklink.com/ItemImage/PN/85/3022.png" width="100px">| 1 | [3022](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3022) | Plate 2 x 2 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/115/4073.png" width="100px">| 2 | [4073](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4073) | Plate, Round 1 x 1 | Pearl Gold
-<img src="https://img.bricklink.com/ItemImage/PN/1/24866.png" width="100px">| 6 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | White
+<img src="https://img.bricklink.com/ItemImage/PN/1/24866.png" width="100px">| 5 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | White
 <img src="https://img.bricklink.com/ItemImage/PN/6/24866.png" width="100px">| 1 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Green
 <img src="https://img.bricklink.com/ItemImage/PN/86/99781.png" width="100px">| 1 | [99781](https://www.bricklink.com/v2/catalog/catalogitem.page?P=99781) | Bracket 1 x 2 - 1 x 2 | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/86/3069.png" width="100px">| 1 | [3069](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069) | Tile 1 x 2 | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/11/3069.png" width="100px">| 1 | [3069](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069) | Tile 1 x 2 | Black
-<img src="https://img.bricklink.com/ItemImage/PN/11/54200.png" width="100px">| 3 | [54200](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200) | Slope 30 1 x 1 x 2/3 | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/54200.png" width="100px">| 2 | [54200](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200) | Slope 30 1 x 1 x 2/3 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/85/99563.png" width="100px">| 1 | [99563](https://www.bricklink.com/v2/catalog/catalogitem.page?P=99563) | Minifigure, Utensil Ingot 1 x 2 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/35480.png" width="100px">| 1 | [35480](https://www.bricklink.com/v2/catalog/catalogitem.page?P=35480) | Plate, Round 1 x 2 with Open Studs | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/86/15535.png" width="100px">| 1 | [15535](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15535) | Tile, Round 2 x 2 with Hole | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/10928.png" width="100px">| 1 | [10928](https://www.bricklink.com/v2/catalog/catalogitem.page?P=10928) | Technic, Gear 8 Tooth with Dual Face | Dark Bluish Gray
-<img src="https://img.bricklink.com/ItemImage/PN/11/20482.png" width="100px">| 2 | [20482](https://www.bricklink.com/v2/catalog/catalogitem.page?P=20482) | Tile, Round 1 x 1 with Bar and Pin Holder | Black
-<img src="https://img.bricklink.com/ItemImage/PN/3/5903.png" width="100px">| 2 | [5903](https://www.bricklink.com/v2/catalog/catalogitem.page?P=5903) | Plant Flower Tulip with Bar and Small Pin Hole | Yellow
+<img src="https://img.bricklink.com/ItemImage/PN/11/20482.png" width="100px">| 1 | [20482](https://www.bricklink.com/v2/catalog/catalogitem.page?P=20482) | Tile, Round 1 x 1 with Bar and Pin Holder | Black
+<img src="https://img.bricklink.com/ItemImage/PN/3/5903.png" width="100px">| 1 | [5903](https://www.bricklink.com/v2/catalog/catalogitem.page?P=5903) | Plant Flower Tulip with Bar and Small Pin Hole | Yellow
 <img src="https://img.bricklink.com/ItemImage/PN/12/60602.png" width="100px">| 1 | [60602](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60602) | Glass for Window 1 x 2 x 3 Flat Front | Trans-Clear
 <img src="https://img.bricklink.com/ItemImage/PN/7/43093.png" width="100px">| 1 | [43093](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43093) | Technic, Axle  1L with Pin with Friction Ridges | Blue
 <img src="https://img.bricklink.com/ItemImage/PN/3/4265c.png" width="100px">| 1 | [4265c](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4265c) | Technic Bush 1/2 Smooth | Yellow
@@ -355,6 +368,11 @@ Picture | Qty | Code | Description | Color
 Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/115/4073.png" width="100px">| 1 | [4073](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4073) | Plate, Round 1 x 1 | Pearl Gold
+<img src="https://img.bricklink.com/ItemImage/PN/48/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Sand Green
+<img src="https://img.bricklink.com/ItemImage/PN/1/24866.png" width="100px">| 1 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | White
+<img src="https://img.bricklink.com/ItemImage/PN/3/5903.png" width="100px">| 1 | [5903](https://www.bricklink.com/v2/catalog/catalogitem.page?P=5903) | Plant Flower Tulip with Bar and Small Pin Hole | Yellow
+<img src="https://img.bricklink.com/ItemImage/PN/11/20482.png" width="100px">| 1 | [20482](https://www.bricklink.com/v2/catalog/catalogitem.page?P=20482) | Tile, Round 1 x 1 with Bar and Pin Holder | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/54200.png" width="100px">| 1 | [54200](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200) | Slope 30 1 x 1 x 2/3 | Black
 
 ### BAGLET 4B
 
@@ -365,11 +383,11 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/86/3386.png" width="100px">| 3 | [3386](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3386) | Brick, Round 1 x 1 x 2/3 Half Circle Extended with Stud on Side | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/48/32952.png" width="100px">| 1 | [32952](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32952) | Brick, Modified 1 x 1 x 1 2/3 with Studs on Side | Sand Green
 <img src="https://img.bricklink.com/ItemImage/PN/11/87087.png" width="100px">| 2 | [87087](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87087) | Brick, Modified 1 x 1 with Stud on Side | Black
-<img src="https://img.bricklink.com/ItemImage/PN/85/3024.png" width="100px">| 7 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Dark Bluish Gray
+<img src="https://img.bricklink.com/ItemImage/PN/85/3024.png" width="100px">| 6 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/15068.png" width="100px">| 1 | [15068](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15068) | Slope, Curved 2 x 2 x 2/3 | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/2/3023.png" width="100px">| 7 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Tan
 <img src="https://img.bricklink.com/ItemImage/PN/2/3623.png" width="100px">| 1 | [3623](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3623) | Plate 1 x 3 | Tan
-<img src="https://img.bricklink.com/ItemImage/PN/86/85861.png" width="100px">| 5 | [85861](https://www.bricklink.com/v2/catalog/catalogitem.page?P=85861) | Plate, Round 1 x 1 with Open Stud | Light Bluish Gray
+<img src="https://img.bricklink.com/ItemImage/PN/86/85861.png" width="100px">| 4 | [85861](https://www.bricklink.com/v2/catalog/catalogitem.page?P=85861) | Plate, Round 1 x 1 with Open Stud | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/11/85861.png" width="100px">| 2 | [85861](https://www.bricklink.com/v2/catalog/catalogitem.page?P=85861) | Plate, Round 1 x 1 with Open Stud | Black
 <img src="https://img.bricklink.com/ItemImage/PN/36/24866.png" width="100px">| 2 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Bright Green
 <img src="https://img.bricklink.com/ItemImage/PN/85/15573.png" width="100px">| 3 | [15573](https://www.bricklink.com/v2/catalog/catalogitem.page?P=15573) | Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper) | Dark Bluish Gray
@@ -388,6 +406,8 @@ Picture | Qty | Code | Description | Color
 Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/36/1748.png" width="100px">| 1 | [1748](https://www.bricklink.com/v2/catalog/catalogitem.page?P=1748) | Tile, Round 1 x 2 Half | Bright Green
+<img src="https://img.bricklink.com/ItemImage/PN/86/85861.png" width="100px">| 1 | [85861](https://www.bricklink.com/v2/catalog/catalogitem.page?P=85861) | Plate, Round 1 x 1 with Open Stud | Light Bluish Gray
+<img src="https://img.bricklink.com/ItemImage/PN/85/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Dark Bluish Gray
 
 ## BAG 5
 
@@ -443,11 +463,17 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/85/36840.png" width="100px">| 2 | [36840](https://www.bricklink.com/v2/catalog/catalogitem.page?P=36840) | Bracket 1 x 1 - 1 x 1 Inverted | Dark Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/6/24866.png" width="100px">| 2 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Green
 <img src="https://img.bricklink.com/ItemImage/PN/1/24866.png" width="100px">| 2 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | White
-<img src="https://img.bricklink.com/ItemImage/PN/105/24866.png" width="100px">| 3 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Bright Light Blue
+<img src="https://img.bricklink.com/ItemImage/PN/105/24866.png" width="100px">| 2 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Bright Light Blue
 <img src="https://img.bricklink.com/ItemImage/PN/115/20482.png" width="100px">| 1 | [20482](https://www.bricklink.com/v2/catalog/catalogitem.page?P=20482) | Tile, Round 1 x 1 with Bar and Pin Holder | Pearl Gold
 <img src="https://img.bricklink.com/ItemImage/PN/1/3068pb2661.png" width="100px">| 2 | [3068pb2661](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3068pb2661) | Tile 2 x 2 with Newspaper 'LONDON BRICKLY' and 'MORIARTY DISAPPEARS!' Pattern | White
 <img src="https://img.bricklink.com/ItemImage/PN/88/61976.png" width="100px">| 1 | [61976](https://www.bricklink.com/v2/catalog/catalogitem.page?P=61976) | Minifigure, Utensil Bag Messenger Pouch | Reddish Brown
 <img src="https://img.bricklink.com/ItemImage/PN/12/60601.png" width="100px">| 2 | [60601](https://www.bricklink.com/v2/catalog/catalogitem.page?P=60601) | Glass for Window 1 x 2 x 2 Flat Front | Trans-Clear
+
+#### BAGLET 5A (SPARE)
+
+Picture | Qty | Code | Description | Color
+--------|----:|------|-------------|-------
+<img src="https://img.bricklink.com/ItemImage/PN/105/24866.png" width="100px">| 1 | [24866](https://www.bricklink.com/v2/catalog/catalogitem.page?P=24866) | Plate, Round 1 x 1 with Flower Edge (5 Petals) | Bright Light Blue
 
 ### BAGLET 5B
 
@@ -461,7 +487,7 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/86/33909.png" width="100px">| 1 | [33909](https://www.bricklink.com/v2/catalog/catalogitem.page?P=33909) | Tile, Modified 2 x 2 with Studs on Edge | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/86/43723.png" width="100px">| 1 | [43723](https://www.bricklink.com/v2/catalog/catalogitem.page?P=43723) | Wedge, Plate 3 x 2 Left | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/85/25269.png" width="100px">| 1 | [25269](https://www.bricklink.com/v2/catalog/catalogitem.page?P=25269) | Tile, Round 1 x 1 Quarter | Dark Bluish Gray
-<img src="https://img.bricklink.com/ItemImage/PN/69/4073.png" width="100px">| 9 | [4073](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4073) | Plate, Round 1 x 1 | Dark Tan
+<img src="https://img.bricklink.com/ItemImage/PN/69/4073.png" width="100px">| 10 | [4073](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4073) | Plate, Round 1 x 1 | Dark Tan
 <img src="https://img.bricklink.com/ItemImage/PN/86/98138.png" width="100px">| 13 | [98138](https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138) | Tile, Round 1 x 1 | Light Bluish Gray
 
 #### BAGLET 5B (SPARE)
@@ -469,7 +495,6 @@ Picture | Qty | Code | Description | Color
 Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
 <img src="https://img.bricklink.com/ItemImage/PN/150/1748.png" width="100px">| 1 | [1748](https://www.bricklink.com/v2/catalog/catalogitem.page?P=1748) | Tile, Round 1 x 2 Half | Medium Nougat
-<img src="https://img.bricklink.com/ItemImage/PN/69/4073.png" width="100px">| 1 | [4073](https://www.bricklink.com/v2/catalog/catalogitem.page?P=4073) | Plate, Round 1 x 1 | Dark Tan
 
 ## BAG 6
 
@@ -544,11 +569,11 @@ Picture | Qty | Code | Description | Color
 <img src="https://img.bricklink.com/ItemImage/PN/86/87087.png" width="100px">| 2 | [87087](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87087) | Brick, Modified 1 x 1 with Stud on Side | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/1/87087.png" width="100px">| 1 | [87087](https://www.bricklink.com/v2/catalog/catalogitem.page?P=87087) | Brick, Modified 1 x 1 with Stud on Side | White
 <img src="https://img.bricklink.com/ItemImage/PN/2/26604.png" width="100px">| 1 | [26604](https://www.bricklink.com/v2/catalog/catalogitem.page?P=26604) | Brick, Modified 1 x 1 with Studs on 2 Sides, Adjacent | Tan
-<img src="https://img.bricklink.com/ItemImage/PN/11/54200.png" width="100px">| 1 | [54200](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200) | Slope 30 1 x 1 x 2/3 | Black
-<img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 6 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/54200.png" width="100px">| 2 | [54200](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200) | Slope 30 1 x 1 x 2/3 | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 5 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/1/3024.png" width="100px">| 2 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | White
 <img src="https://img.bricklink.com/ItemImage/PN/85/3024.png" width="100px">| 4 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Dark Bluish Gray
-<img src="https://img.bricklink.com/ItemImage/PN/48/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Sand Green
+<img src="https://img.bricklink.com/ItemImage/PN/48/3024.png" width="100px">| 2 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Sand Green
 <img src="https://img.bricklink.com/ItemImage/PN/86/3023.png" width="100px">| 3 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/1/3023.png" width="100px">| 2 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | White
 <img src="https://img.bricklink.com/ItemImage/PN/48/3023.png" width="100px">| 2 | [3023](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023) | Plate 1 x 2 | Sand Green
@@ -567,11 +592,10 @@ Picture | Qty | Code | Description | Color
 
 Picture | Qty | Code | Description | Color
 --------|----:|------|-------------|-------
-<img src="https://img.bricklink.com/ItemImage/PN/11/54200.png" width="100px">| 1 | [54200](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200) | Slope 30 1 x 1 x 2/3 | Black
 <img src="https://img.bricklink.com/ItemImage/PN/1/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | White
-<img src="https://img.bricklink.com/ItemImage/PN/48/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Sand Green
 <img src="https://img.bricklink.com/ItemImage/PN/86/25269.png" width="100px">| 1 | [25269](https://www.bricklink.com/v2/catalog/catalogitem.page?P=25269) | Tile, Round 1 x 1 Quarter | Light Bluish Gray
 <img src="https://img.bricklink.com/ItemImage/PN/11/78258.png" width="100px">| 1 | [78258](https://www.bricklink.com/v2/catalog/catalogitem.page?P=78258) | Bar   2L with Stop Ring | Black
+<img src="https://img.bricklink.com/ItemImage/PN/11/3024.png" width="100px">| 1 | [3024](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3024) | Plate 1 x 1 | Black
 
 ## BAG 7
 
